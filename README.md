@@ -102,8 +102,11 @@ Healthcare Providers:
 - Create issues tagged "Doctor:" for discussion
 
 Device Suppliers:
-- MIT license for non-commercial use only
-- Focus on code improvement rather than monetization
+- MIT license for non-commercial use, for device vendors :
+  - You may use this software on playing devices, but not claim this software yours and ask money for it.
+    Your allowed to provide this software as is, or let users use this free software, monetization is not allowed 
+- Anyone could fork this code and is allowed to extend it, or use it free of charge.
+
 
 All feedback and experiences help improve this tool for future users. 
 Let's work together to help people find relief from tinnitus.
